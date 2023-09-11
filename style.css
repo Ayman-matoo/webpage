@@ -1,0 +1,103 @@
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+
+html,body{
+  text-align:centre
+  display:grid;
+  margin: 0;
+  grid-temlate-columns:auto auto auto;
+  height: 100%;
+  
+}
+#box1{
+  border:2px solid;
+  width:800px;
+   height:240px;
+  background-color:yellow;
+  margin-bottom:20px;
+  margin-left: 20px;
+}
+#box2{
+  border:2px solid;
+  width:800px;
+   height:100px;
+  background-color:white;
+  margin-bottom:20px;
+  margin-left:20px;
+  
+}
+#box3{
+  border:2px solid;
+  width:800px;
+   height:380px;
+  background-color:white;
+  margin-bottom:20px;
+  margin-left:20px;
+}
+{
+  
+}
+ padding: 50px;
+  border: 1px solid #4CAF50;
+p2 {
+   font-size: 25px;
+ 
+}
+imframe{
+  pistion:fixed;
+  
+}
+ img{
+  widith:100px;
+  height:100px;
+  margin-left:outo;
+  margin:right;
+  display:block;
+}
+.header{
+  position:fixed;
+  top : 0;
+  left: 0;
+  width:100%;
+  padding:20px 10px;
+  background; green;
+}
+p,p2 {
+  font-family: 'Happy Monkey', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Orbitron', sans-serif;
+}
+body{
+  height:100vh;
+  background-color: coral;
+  background-size:cover;
+ {
+    
+  }
+  
+  
+}
+
+.dflex {
+  margin:0;
+  display:flex;
+  justify-content:space-evenly;
+}
+h1{text-align:center;
+  margin:1px;
+  background:line-gradient( yellow)
+  
+
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
+h1 {text-align: center
+  
+}
